@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavasScript<br>🎯</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavasScript<br></p>
 
 ###
 
