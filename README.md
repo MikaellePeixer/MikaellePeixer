@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Mikaelle.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikaellepeixer&label=Profile%20views&color=0e75b6&style=flat" alt="mikaellepeixer" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mikaellepeixer&label=Profile%20views&color=0e75b6&style=flat](https://www.linkedin.com/in/mikaelle-da-silva-peixer-43b122204/?originalSubdomain=br)" alt="mikaellepeixer" /> </p>
 
 
 ###
