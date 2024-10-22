@@ -38,6 +38,13 @@
 
 ###
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaellepeixer&show_icons=true&locale=en&layout=compact" alt="mikaellepeixer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikaellepeixer&show_icons=true&locale=en" alt="mikaellepeixer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikaellepeixer&" alt="mikaellepeixer" /></p>
+
+###
 
 <div align="left">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -46,9 +53,4 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaellepeixer&show_icons=true&locale=en&layout=compact" alt="mikaellepeixer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikaellepeixer&show_icons=true&locale=en" alt="mikaellepeixer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikaellepeixer&" alt="mikaellepeixer" /></p>
 
