@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.https://github.com/MikaellePeixer/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MikaellePeixer/MikaellePeixer/output/snake.svg" alt="Snake animation" />
 
 ###
