@@ -3,6 +3,9 @@
 ###
 
 <p align="left">My name is Mikaelle.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikaellepeixer&label=Profile%20views&color=0e75b6&style=flat" alt="mikaellepeixer" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikaellepeixer" alt="mikaellepeixer" /></a> </p>
 
 ###
 
