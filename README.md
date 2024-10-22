@@ -38,10 +38,22 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaellepeixer&show_icons=true&locale=en&layout=compact" alt="mikaellepeixer" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mikaellepeixer&show_icons=true&locale=en" alt="mikaellepeixer" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaellepeixer&" alt="mikaellepeixer" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaellepeixer&show_icons=true&locale=en&layout=compact" alt="mikaellepeixer" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mikaellepeixer&show_icons=true&locale=en" alt="mikaellepeixer" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaellepeixer&" alt="mikaellepeixer" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
