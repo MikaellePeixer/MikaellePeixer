@@ -38,11 +38,12 @@
 
 ###
 
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaellepeixer&show_icons=true&locale=en&layout=compact" alt="mikaellepeixer" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikaellepeixer&show_icons=true&locale=en" alt="mikaellepeixer" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikaellepeixer&" alt="mikaellepeixer" /></p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaellepeixer&show_icons=true&locale=en&layout=compact" alt="mikaellepeixer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mikaellepeixer&show_icons=true&locale=en" alt="mikaellepeixer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaellepeixer&" alt="mikaellepeixer" />
 </div>
+
 
 ###
 
