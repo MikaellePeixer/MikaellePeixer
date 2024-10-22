@@ -16,6 +16,12 @@
 
 ###
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mikaelle da silva peixer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikaelle da silva peixer" height="30" width="40" /></a>
+</p>
+
+
 <h2 align="left">I code with</h2>
 
 ###
