@@ -42,7 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikaellepeixer&show_icons=true&locale=en" alt="mikaellepeixer" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mikaellepeixer&" alt="mikaellepeixer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikaellepeixer&" alt="mikaellepeixer" /></p>
 
 ###
 
