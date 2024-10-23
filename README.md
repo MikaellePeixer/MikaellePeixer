@@ -48,11 +48,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=mikaellepeixer&show_icons=true&locale=en" alt="mikaellepeixer" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaellepeixer&" alt="mikaellepeixer" />
-      </td>
-    </tr>
   </table>
 </div>
 
