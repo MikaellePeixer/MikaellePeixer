@@ -15,7 +15,7 @@
 ###
 
 <p align="left">
-- 🚀 Sobre Mim
+- 🚀 Sobre Mim<br>
 - ✨ Criando bugs since 2023<br>
 - 💻 Estou focado em me tornar uma Desenvolvedora full stack.<br>
 - 🎓 Participei de formações e imersões pela **Alura**, **DevEmDobro**, e concluí o curso **DESENVOLVEDOR WEB - BACK-END -JAVA | Entra21** da Blusoft.<br>
