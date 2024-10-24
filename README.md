@@ -1,4 +1,5 @@
 <h1 align="left">PT - Olá, que bom ver você por aqui! 💜<br></h1>
+
 ##
 ##
 
@@ -7,6 +8,7 @@
 🎓 Participei de formações e imersões pela Alura, DevEmDobro, e concluí o curso DESENVOLVEDOR WEB - BACK-END -JAVA | Entra21 da Blusoft.<br>
 💡 Atualmente, estou desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.<br>
 📫 Sinta-se à vontade para entrar em contato comigo por e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a><br></p>
+
 ##
 ##
 
