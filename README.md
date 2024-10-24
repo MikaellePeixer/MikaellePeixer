@@ -9,11 +9,10 @@
 ###
 
 <p align="left">
-- ✨ Criando bugs desde 2023<br>
 - 💻 Estou focado em me tornar uma Desenvolvedora full stack.<br>
-- 🎓 Participei de formações e imersões pela **Alura**, **DevEmDobro**, e concluí o curso **DESENVOLVEDOR WEB - BACK-END -JAVA | Entra21** da Blusoft.<br>
+- 🎓 Participei de formações e imersões pela Alura, DevEmDobro, e concluí o curso DESENVOLVEDOR WEB - BACK-END -JAVA | Entra21 da Blusoft.<br>
 - 💡 Atualmente, estou desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.<br>
-- 🌱 Estou sempre aprendendo algo novo e buscando contribuir para a comunidade.<br></p>
+- 📫 Sinta-se à vontade para entrar em contato comigo por e-mail: mikaelle_s.peixer@outlook.com
 
 
   ###
@@ -38,12 +37,10 @@
 ###
 
 <p align="left">
-- 🚀 About Me<br>
-- ✨ Creating bugs since 2023<br>
 - 💻 Focused on becoming a Full Stack Developer.<br>
-- 🎓 I participated in courses and immersions from **Alura**, **DevEmDobro**, and completed the **WEB DEVELOPER - BACK-END - JAVA | Entra21** course by Blusoft.<br>
+- 🎓 I participated in courses and immersions from Alura, DevEmDobro, and completed the WEB DEVELOPER - BACK-END - JAVA | Entra21 course by Blusoft.<br>
 - 💡 Currently developing projects to practice and consolidate my programming knowledge.<br>
-- 🌱 Always learning something new and looking to contribute to the community.<br></p>
+- 📫 Feel free to reach out via e-mail: mikaelle_s.peixer@outlook.com
 
 ###
 
