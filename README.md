@@ -8,8 +8,7 @@
 💡 Atualmente, estou desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.<br>
 📫 Sinta-se à vontade para entrar em contato comigo por e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a><br></p>
 
-##
-##
+
 
 🛠️ Tecnologias & Ferramentas
 - Back-End: Java, Spring Boot
@@ -20,7 +19,6 @@
 
 ##
 ##
-<br>
 
 <h1 align="left">EN - Hello, It's great to see you here! 💜<br></h1> 
 
@@ -32,8 +30,6 @@
 💡 Currently developing projects to practice and consolidate my programming knowledge.<br>
 📬 Feel free to reach out via e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a><br></p>
   
-##
-##
 
 🛠️ Technologies & Tools:
 - Back-End: Java, Spring Boot
