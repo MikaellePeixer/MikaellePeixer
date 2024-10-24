@@ -1,11 +1,14 @@
 <h1 align="left">PT - Olá, que bom ver você por aqui! 💜<br></h1>
+##
+##
 
 <p align="left">
 💻 Estou focado em me tornar uma Desenvolvedora full stack.<br>
 🎓 Participei de formações e imersões pela Alura, DevEmDobro, e concluí o curso DESENVOLVEDOR WEB - BACK-END -JAVA | Entra21 da Blusoft.<br>
 💡 Atualmente, estou desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.<br>
 📫 Sinta-se à vontade para entrar em contato comigo por e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a><br></p>
-
+##
+##
 
 🛠️ Tecnologias & Ferramentas
 - Back-End: Java, Spring Boot
@@ -14,7 +17,8 @@
 - Versionamento: Git, GitHub
 - Ferramentas: IntelliJ, VS Code, Notion<br><br><br>
 
----
+##
+##
 <br><br>
 
 <h1 align="left">EN - Hello, It's great to see you here! 💜</h1><br> 
@@ -27,6 +31,7 @@
 📬 Feel free to reach out via e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a><br></p>
   
 ##
+##
 
 🛠️ Technologies & Tools:
 - Back-End: Java, Spring Boot
@@ -35,9 +40,9 @@
 - Version Control: Git, GitHub
 - Tools: IntelliJ, VS Code, Notion
 
-<hr> 
-
 ##
+##
+
 <div align="center">
 <div> 
   <a href="https://instagram.com/srta_ordem" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -46,7 +51,6 @@
 </div>
 </div>
 
-##
 
 
 <div align="center">
@@ -58,6 +62,7 @@
   <img width="12" /><br>
 </div>
 
+##
 ##
 
 <div align="center">
@@ -73,4 +78,5 @@
   </table>
 </div>
 
+##
 ##
