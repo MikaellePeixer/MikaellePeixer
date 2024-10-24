@@ -14,7 +14,7 @@
 - Versionamento: Git, GitHub
 - Ferramentas: IntelliJ, VS Code, Notion<br>
 
-<hr>
+<hr style="border: 1px solid #ccc;" />
 
 <h1 align="left">EN - Hello, It's great to see you here! 💜</h1><br> 
 
