@@ -6,7 +6,6 @@
 💡 Atualmente, estou desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.<br>
 📫 Sinta-se à vontade para entrar em contato comigo por e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a>
 
---
 
 🛠️ Tecnologias & Ferramentas
 - Back-End: Java, Spring Boot
@@ -19,9 +18,6 @@
 
 <h1 align="left">EN - Hello, It's great to see you here! 💜<br> 
 
-
-###
-###
 
 <p align="left">
 💻 Focused on becoming a Full Stack Developer.<br>
@@ -37,8 +33,7 @@
 - Version Control: Git, GitHub
 - Tools: IntelliJ, VS Code, Notion
 
-###
-###
+<hr>
 
 <div> 
   <a href="https://instagram.com/srta_ordem" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -47,8 +42,6 @@
   <a href="https://www.linkedin.com/in/mikaellepeixer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-###
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -60,8 +53,6 @@
 
 </div>
 
-###
-###
 
 <div align="center">
   <table>
