@@ -16,7 +16,7 @@
 
 <hr>
 
-<h1 align="left">EN - Hello, It's great to see you here! </h1>💜<br> 
+<h1 align="left">EN - Hello, It's great to see you here! 💜</h1><br> 
 
 
 <p align="left">
