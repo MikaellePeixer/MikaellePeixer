@@ -1,8 +1,6 @@
 <h1 align="left">PT - Olá, que bom ver você por aqui! 💜<br></h1>
 
-
-###
-###
+**
 
 <p align="left">
 💻 Estou focado em me tornar uma Desenvolvedora full stack.<br>
@@ -10,7 +8,7 @@
 💡 Atualmente, estou desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.<br>
 📫 Sinta-se à vontade para entrar em contato comigo por e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a>
 
-
+--
 
 🛠️ Tecnologias & Ferramentas
 - Back-End: Java, Spring Boot
@@ -19,8 +17,7 @@
 - Versionamento: Git, GitHub
 - Ferramentas: IntelliJ, VS Code, Notion<br>
 
-###
-###
+<hr>
 
 <h1 align="left">EN - Hello, It's great to see you here! 💜<br> 
 
