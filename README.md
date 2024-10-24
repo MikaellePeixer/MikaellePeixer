@@ -15,12 +15,6 @@
 - 💡 Atualmente, estou desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.<br>
 - 🌱 Estou sempre aprendendo algo novo e buscando contribuir para a comunidade.<br></p>
 
-###
-
-🌐 Onde me encontrar
-- [GitHub](https://github.com/MikaellePeixer)
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin)
-- [E-mail](mikaelle_s.peixer@outlook.com)
 
   ###
 
@@ -53,13 +47,6 @@ Web Back-End Developer | Java | Programming and Technology<br></h1>
 
 ###
 
-🌐 Where to find me:
-- [GitHub](https://github.com/MikaellePeixer)
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin)
-- [Email](mikaelle_s.peixer@outlook.com)
-
-###
-
 🛠️ Technologies & Tools:
 - **Back-End**: Java, Spring Boot
 - **Front-End**: HTML, CSS, JavaScript (basic)
@@ -70,15 +57,10 @@ Web Back-End Developer | Java | Programming and Technology<br></h1>
 ###
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mikaelle-da-silva-peixer-43b122204/?originalsubdomain=br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mikaelle-da-silva-peixer-43b122204/?originalsubdomain=br" height="30" width="40" /></a>
-</p>
-
-###
 
 <div> 
   <a href="https://instagram.com/srta_ordem" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/srta_ordem#0019" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/srta_ordem#0019" target="_blank"><img src="[https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Discord-srta__ordem%230019-7289DA?logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mikaellerodrigues77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mikaellepeixer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
