@@ -60,13 +60,16 @@ Web Back-End Developer | Java | Programming and Technology<br></h1>
 
 <div> 
   <a href="https://instagram.com/srta_ordem" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/srta_ordem#0019" target="_blank"><img src="[https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Discord-srta__ordem%230019-7289DA?logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/srta_ordem#0019" target="_blank"><img src="https://img.shields.io/badge/Discord-srta__ordem%230019-7289DA?logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mikaellerodrigues77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mikaellepeixer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ###
 
+
+ <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
 
 <h2 align="left">I code with</h2>
 
