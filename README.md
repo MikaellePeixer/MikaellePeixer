@@ -4,7 +4,7 @@
 💻 Estou focado em me tornar uma Desenvolvedora full stack.<br>
 🎓 Participei de formações e imersões pela Alura, DevEmDobro, e concluí o curso DESENVOLVEDOR WEB - BACK-END -JAVA | Entra21 da Blusoft.<br>
 💡 Atualmente, estou desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.<br>
-📫 Sinta-se à vontade para entrar em contato comigo por e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a>
+📫 Sinta-se à vontade para entrar em contato comigo por e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a><br></p>
 
 
 🛠️ Tecnologias & Ferramentas
@@ -14,7 +14,7 @@
 - Versionamento: Git, GitHub
 - Ferramentas: IntelliJ, VS Code, Notion<br>
 
-<hr style="border: 1px solid #ccc;" />
+###
 
 <h1 align="left">EN - Hello, It's great to see you here! 💜</h1><br> 
 
