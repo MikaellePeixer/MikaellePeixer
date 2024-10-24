@@ -1,7 +1,6 @@
 <h1 align="left">PT - Olá, que bom ver você por aqui! 💜<br></h1>
 
 ##
-##
 
 <p align="left">
 💻 Estou focado em me tornar uma Desenvolvedora full stack.<br>
@@ -21,10 +20,12 @@
 
 ##
 ##
-<br><br>
+<br>
 
 <h1 align="left">EN - Hello, It's great to see you here! 💜</h1><br> 
 
+##
+##
 
 <p align="left">
 💻 Focused on becoming a Full Stack Developer.<br>
