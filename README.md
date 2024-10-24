@@ -26,7 +26,7 @@
 💡 Currently developing projects to practice and consolidate my programming knowledge.<br>
 📬 Feel free to reach out via e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a><br></p>
   
-###
+##
 
 🛠️ Technologies & Tools:
 - Back-End: Java, Spring Boot
@@ -37,7 +37,7 @@
 
 <hr> 
 
-###
+##
 <div align="center">
 <div> 
   <a href="https://instagram.com/srta_ordem" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -46,7 +46,7 @@
 </div>
 </div>
 
-###
+##
 
 
 <div align="center">
@@ -58,7 +58,7 @@
   <img width="12" /><br>
 </div>
 
-###
+##
 
 <div align="center">
   <table>
@@ -73,4 +73,4 @@
   </table>
 </div>
 
-###
+##
