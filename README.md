@@ -1,10 +1,5 @@
 <h1 align="left">PT - Olá, que bom ver você por aqui! 💜<br></h1>
 
-<h2 align="left">Desenvolvedora Web Back-End | Java | Programação e Tecnologia <br></h2>
-
-###
-
-<h2 align="left">About me</h2>
 
 ###
 
@@ -27,12 +22,7 @@
 ###
 
 <h1 align="left">EN - Hello, It's great to see you here! 💜<br> 
-  
-<h2 align="left">Back-End Developer | Java | Programming and Technology <br></h2>
 
-###
-
-<h2 align="left">About me</h2>
 
 ###
 
