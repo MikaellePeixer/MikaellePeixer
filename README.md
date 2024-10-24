@@ -22,7 +22,7 @@
 ##
 <br>
 
-<h1 align="left">EN - Hello, It's great to see you here! 💜</h1> 
+<h1 align="left">EN - Hello, It's great to see you here! 💜<br></h1> 
 
 ##
 
@@ -41,10 +41,8 @@
 - Database: MySQL
 - Version Control: Git, GitHub
 - Tools: IntelliJ, VS Code, Notion
-
 ##
 ##
-
 <div align="center">
 <div> 
   <a href="https://instagram.com/srta_ordem" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
