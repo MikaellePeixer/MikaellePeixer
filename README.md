@@ -9,7 +9,7 @@
 ###
 
 <p align="left">
-- ✨ Criando bugs since 2023<br>
+- ✨ Criando bugs desde 2023<br>
 - 💻 Estou focado em me tornar uma Desenvolvedora full stack.<br>
 - 🎓 Participei de formações e imersões pela **Alura**, **DevEmDobro**, e concluí o curso **DESENVOLVEDOR WEB - BACK-END -JAVA | Entra21** da Blusoft.<br>
 - 💡 Atualmente, estou desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.<br>
@@ -76,12 +76,14 @@ Web Back-End Developer | Java | Programming and Technology<br></h1>
 
 ###
 
-###
+<div> 
+  <a href="https://instagram.com/srta_ordem" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/srta_ordem#0019" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:mikaellerodrigues77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mikaellepeixer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mikaelle-da-silva-peixer-43b122204/?originalsubdomain=br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mikaelle-da-silva-peixer-43b122204/?originalsubdomain=br" height="30" width="40" /></a>
-</p>
+###
 
 
 <h2 align="left">I code with</h2>
