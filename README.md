@@ -15,7 +15,7 @@
 - Front-End: HTML, CSS, JavaScript (básico)
 - Banco de Dados: MySQL
 - Versionamento: Git, GitHub
-- Ferramentas: IntelliJ, VS Code, Notion<br><br><br>
+- Ferramentas: IntelliJ, VS Code, Notion<br><br>
 
 ##
 ##
