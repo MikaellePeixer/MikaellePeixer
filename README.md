@@ -34,6 +34,8 @@
 - Version Control: Git, GitHub
 - Tools: IntelliJ, VS Code, Notion
 
+<hr> 
+
 ###
 
 <div> 
@@ -62,7 +64,7 @@
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaellepeixer&show_icons=true&locale=en&layout=compact" alt="mikaellepeixer" />
-      </td>
+      </td><br>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=mikaellepeixer&show_icons=true&locale=en" alt="mikaellepeixer" />
       </td>
