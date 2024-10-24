@@ -23,8 +23,9 @@
 💻 Focused on becoming a Full Stack Developer.<br>
 🎓 I participated in courses and immersions from Alura, DevEmDobro, and completed the WEB DEVELOPER - BACK-END - JAVA | Entra21 course by Blusoft.<br>
 💡 Currently developing projects to practice and consolidate my programming knowledge.<br>
-📬 Feel free to reach out via e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a>
+📬 Feel free to reach out via e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a><br></p>
   
+###
 
 🛠️ Technologies & Tools:
 - Back-End: Java, Spring Boot
@@ -33,16 +34,16 @@
 - Version Control: Git, GitHub
 - Tools: IntelliJ, VS Code, Notion
 
-##
+###
 
 <div> 
   <a href="https://instagram.com/srta_ordem" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/XMA4GxAX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mikaellerodrigues77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mikaellepeixer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div><br>
+</div>
 
-##
+###
 
 
 <div align="left">
@@ -54,7 +55,7 @@
   <img width="12" /><br>
 </div>
 
-##
+###
 
 <div align="center">
   <table>
@@ -68,3 +69,5 @@
     </tr>
   </table>
 </div>
+
+###
