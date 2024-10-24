@@ -1,6 +1,6 @@
-<h1 align="left"># Olá, eu sou o Mikaelle Peixer! 👋<br></h1>
+<h1 align="left">PT - Olá, eu sou o Mikaelle Peixer! 👋<br></h1>
 
-<h2 align="left"># Desenvolvedora Web Back-End | Java | Programação e Tecnologia <br></h2>
+<h2 align="left">Desenvolvedora Web Back-End | Java | Programação e Tecnologia <br></h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h1 align="left"># Hello, I am Mikaelle Peixer!<br> 👋
+<h1 align="left">EN - Hello, I am Mikaelle Peixer!<br> 👋
 
 Web Back-End Developer | Java | Programming and Technology<br></h1>
 
