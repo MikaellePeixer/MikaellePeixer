@@ -77,15 +77,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=mikaellepeixer&show_icons=true&locale=en" alt="mikaellepeixer" />
       </td>
-
-###
-###
     </tr>
   </table>
 </div>
-
-
-###
-
-
-
