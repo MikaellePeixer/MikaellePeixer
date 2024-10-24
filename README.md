@@ -4,12 +4,6 @@
 
 ###
 
-<p align="left">My name is Mikaelle.</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikaellepeixer" alt="mikaellepeixer" /></a> </p>
-
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
@@ -42,11 +36,6 @@
 <h1 align="left">EN - Hello, It's great to see you here! 💜<br> 
 
 Web Back-End Developer | Java | Programming and Technology<br></h1>
-
-###
-
-<p align="left">My name is Mikaelle.</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikaellepeixer" alt="mikaellepeixer" /></a> </p>
 
 ###
 
