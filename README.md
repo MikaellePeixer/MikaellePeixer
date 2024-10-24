@@ -12,17 +12,17 @@
 💻 Estou focado em me tornar uma Desenvolvedora full stack.<br>
 🎓 Participei de formações e imersões pela Alura, DevEmDobro, e concluí o curso DESENVOLVEDOR WEB - BACK-END -JAVA | Entra21 da Blusoft.<br>
 💡 Atualmente, estou desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.<br>
-📫 Sinta-se à vontade para entrar em contato comigo por e-mail: mikaelle_s.peixer@outlook.com
+📫 Sinta-se à vontade para entrar em contato comigo por e-mail: [mikaelle_s.peixer@outlook.com](mailto:mikaelle_s.peixer@outlook.com)
 
 
   ###
 
 🛠️ Tecnologias & Ferramentas
-**Back-End**: Java, Spring Boot
-**Front-End**: HTML, CSS, JavaScript (básico)
-**Banco de Dados**: MySQL
-**Versionamento**: Git, GitHub
-**Ferramentas**: IntelliJ, VS Code, Notion
+- Back-End**: Java, Spring Boot
+- Front-End**: HTML, CSS, JavaScript (básico)
+- Banco de Dados**: MySQL
+- Versionamento**: Git, GitHub
+- Ferramentas**: IntelliJ, VS Code, Notion
 
 ###
 
@@ -40,16 +40,16 @@
 💻 Focused on becoming a Full Stack Developer.<br>
 🎓 I participated in courses and immersions from Alura, DevEmDobro, and completed the WEB DEVELOPER - BACK-END - JAVA | Entra21 course by Blusoft.<br>
 💡 Currently developing projects to practice and consolidate my programming knowledge.<br>
-📫 Feel free to reach out via e-mail: mikaelle_s.peixer@outlook.com
+📫 Feel free to reach out via e-mail: [mikaelle_s.peixer@outlook.com](mailto:mikaelle_s.peixer@outlook.com)
 
 ###
 
 🛠️ Technologies & Tools:
-**Back-End**: Java, Spring Boot
-**Front-End**: HTML, CSS, JavaScript (basic)
-**Database**: MySQL
-**Version Control**: Git, GitHub
-**Tools**: IntelliJ, VS Code, Notion
+- Back-End**: Java, Spring Boot
+- Front-End**: HTML, CSS, JavaScript (basic)
+- Database**: MySQL
+- Version Control**: Git, GitHub
+- Tools**: IntelliJ, VS Code, Notion
 
 ###
 
