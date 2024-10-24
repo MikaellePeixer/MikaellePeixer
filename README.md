@@ -1,6 +1,6 @@
-<h1 align="left"># Olá, eu sou o Mikaelle Peixer! 👋<br> 
+<h1 align="left"># Olá, eu sou o Mikaelle Peixer! 👋<br></h1>
 
-Desenvolvedor Web Back-End | Java | Programação e Tecnologia<br></h1>
+<h2 align="left"># Desenvolvedora Web Back-End | Java | Programação e Tecnologia <br></h2>
 
 ###
 
