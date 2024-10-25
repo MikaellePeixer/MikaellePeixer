@@ -13,7 +13,7 @@
 🛠️ Tecnologias & Ferramentas
 - Back-End: Java, Spring Boot
 - Front-End: HTML, CSS, JavaScript (básico)
-- Banco de Dados: MySQL
+- Banco de Dados: SQL
 - Versionamento: Git, GitHub
 - Ferramentas: IntelliJ, VS Code, Notion<br>
 
@@ -35,7 +35,7 @@
 🛠️ Technologies & Tools:
 - Back-End: Java, Spring Boot
 - Front-End: HTML, CSS, JavaScript (basic)
-- Database: MySQL
+- Database: SQL
 - Version Control: Git, GitHub
 - Tools: IntelliJ, VS Code, Notion
 ##
