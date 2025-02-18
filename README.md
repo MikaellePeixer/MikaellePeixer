@@ -5,7 +5,7 @@
 <p align="left">
 💻 Focada em me tornar uma Desenvolvedora Full Stack. Desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.<br>
 💼 Atualmente, sou QA na Lector Tecnologia, onde desenvolvo habilidades em qualidade de software e testes.<br>
-🎓 Aprovada com bolsa no programa Oracle Next Education (ONE) em parceria com a Alura, onde estou expandindo minhas habilidades em programação!<br>
+🎓 Aprovada com bolsa no programa Oracle Next Education (ONE) em parceria com a Oracle e Alura, onde estou expandindo minhas habilidades em programação!<br>
 ✔️ Concluí o curso Desenvolvedor Web - Back-End (Java) no Entra21 da Blusoft.<br>
 📫 Você pode me contatar em: mikaelle_s.peixer@outlook.com</a><br></p><br>
 
