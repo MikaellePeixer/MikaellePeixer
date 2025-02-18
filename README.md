@@ -42,20 +42,41 @@ Você pode conferir todos os meus certificados do programa Oracle Next Education
 
 ##
 
+##
+
 <p align="left">
-💻 Focused on becoming a Full Stack Developer.<br>
-🎓 I participated in courses and immersions from Alura, DevEmDobro, and completed the WEB DEVELOPER - BACK-END - JAVA | Entra21 course by Blusoft.<br>
-💡 Currently developing projects to practice and consolidate my programming knowledge.<br>
-📬 Feel free to reach out via e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a><br></p>
-  
+💻 Focused on becoming a Full Stack Developer. Developing projects to practice and consolidate my programming knowledge.<br>
+💼 Currently, I am a QA at Lector Tecnologia, where I develop skills in software quality and testing.<br>
+🎓 Approved with a scholarship in the Oracle Next Education (ONE) program in partnership with Oracle and Alura, where I am expanding my programming skills!<br>
+✔️ Completed the Web Developer - Back-End (Java) course in Entra21 from Blusoft.<br>
+📫 You can contact me at: mikaelle_s.peixer@outlook.com</a><br></p><br>
+
 <br>
 
-🛠️ Technologies & Tools:
-- Back-End: Java, Spring Boot
-- Front-End: HTML, CSS, JavaScript (basic)
-- Database: SQL
-- Version Control: Git, GitHub
-- Tools: IntelliJ, VS Code, Notion
+🛠️ **Technologies & Tools**
+- Back-End: Java, JavaScript, Spring Boot
+- Front-End: HTML, CSS
+- Database: SQL Server
+- Versioning: Git, GitHub
+- Tools: VS Code, Notion, Trello<br>
+
+<br>
+
+🚀 **Skills Developed**
+- Programming logic and problem solving
+- Functions and Lists in JavaScript
+- Version control with Git and GitHub
+- Deployment of projects in Vercel
+- Continuous learning and self-development techniques
+- HTML and CSS: File structure, tags, classes, positioning, and Flexbox
+- Results optimization with best practices in development<br>
+
+<br>
+
+### 🎓 **Certificates**  
+You can check all my Oracle Next Education (ONE) program certificates [**by clicking here**](https://cursos.alura.com.br/user/mikaelle-s-peixer).
+
+
 ##
 ##
 <div align="center">
