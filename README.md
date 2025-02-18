@@ -21,13 +21,15 @@
 <br>
 
 🚀 Habilidades Desenvolvidas
-Lógica de Programação e resolução de problemas
-Funções e Listas em JavaScript
-Controle de versão com Git e GitHub
-Publicação de projetos no Vercel
-Aprendizado contínuo e técnicas de autodesenvolvimento
-HTML e CSS: Estrutura de arquivos, tags, classes, posicionamento e Flexbox
-Otimização de resultados com boas práticas em desenvolvimento<br>
+- Lógica de Programação e resolução de problemas
+- Funções e Listas em JavaScript
+- Controle de versão com Git e GitHub
+- Publicação de projetos no Vercel
+- Aprendizado contínuo e técnicas de autodesenvolvimento
+- HTML e CSS: Estrutura de arquivos, tags, classes, posicionamento e Flexbox
+- Otimização de resultados com boas práticas em desenvolvimento<br>
+
+<br>
 
 ### 🎓 **Certificados**  
 Você pode conferir todos os meus certificados do programa Oracle Next Education (ONE) [**clicando aqui**](https://cursos.alura.com.br/user/mikaelle-s-peixer).
