@@ -3,19 +3,35 @@
 ##
 
 <p align="left">
-💻 Estou focado em me tornar uma Desenvolvedora full stack.<br>
-🎓 Participei de formações e imersões pela Alura, DevEmDobro, e concluí o curso DESENVOLVEDOR WEB - BACK-END -JAVA | Entra21 da Blusoft.<br>
-💡 Atualmente, estou desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.<br>
-📫 Sinta-se à vontade para entrar em contato comigo por e-mail: <a href="mailto:mikaelle_s.peixer@outlook.com">mikaelle_s.peixer@outlook.com</a><br></p>
+💻 Focada em me tornar uma Desenvolvedora Full Stack. Desenvolvendo projetos para praticar e consolidar meus conhecimentos em programação.
+💼 Atualmente, sou QA na Lector Tecnologia, onde desenvolvo habilidades em qualidade de software e testes.
+🎓 Aprovada com bolsa no programa Oracle Next Education (ONE) em parceria com a Alura, onde estou expandindo minhas habilidades em programação!
+✔️ Concluí o curso Desenvolvedor Web - Back-End (Java) no Entra21 da Blusoft.
+📫 Você pode me contatar em: mikaelle_s.peixer@outlook.com</a><br></p>
 
 <br>
 
 🛠️ Tecnologias & Ferramentas
-- Back-End: Java, Spring Boot
-- Front-End: HTML, CSS, JavaScript (básico)
+- Back-End: Java, JavaScript, Spring Boot
+- Front-End: HTML, CSS
 - Banco de Dados: SQL
 - Versionamento: Git, GitHub
-- Ferramentas: IntelliJ, VS Code, Notion<br>
+- Ferramentas: VS Code, Notion, Trello<br>
+
+<br>
+
+🚀 Habilidades Desenvolvidas
+Lógica de Programação e resolução de problemas
+Funções e Listas em JavaScript
+Controle de versão com Git e GitHub
+Publicação de projetos no Vercel
+Aprendizado contínuo e técnicas de autodesenvolvimento
+HTML e CSS: Estrutura de arquivos, tags, classes, posicionamento e Flexbox
+Otimização de resultados com boas práticas em desenvolvimento<br>
+
+### 🎓 **Certificados**  
+Você pode conferir todos os meus certificados do programa Oracle Next Education (ONE) [**clicando aqui**](https://cursos.alura.com.br/user/mikaelle-s-peixer).
+
 
 ##
 ##
